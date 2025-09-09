@@ -62,3 +62,7 @@ The visualization shows:
 - Step-by-step progression of the algorithm
 - Current position and value at each step
 - Final position and value when a local maximum is reached
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
